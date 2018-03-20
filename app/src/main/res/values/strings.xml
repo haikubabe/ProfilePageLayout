@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProfilePageLayout</string>
+
+    <string name="profile">Profile</string>
+    <string name="action_dots">Dots Icon</string>
+    <string name="action_mail">Mail Icon</string>
+    <string name="follow_button">+ Follow</string>
+    <string name="author_name">Roald Dahl</string>
+    <string name="author_email">https://www.roalddahl.com/</string>
+    <string name="author_bio">Roald Dahl was a spy, an ace fighter pilot, a chocolate historian and a medical inventor.</string>
+    <string name="action_user">User Icon</string>
+    <string name="action_message">Message Icon</string>
+    <string name="action_favorite">Favorite Icon</string>
+    <string name="action_share">Share Icon</string>
+</resources>
